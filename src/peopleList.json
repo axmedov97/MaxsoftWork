@@ -1,0 +1,38 @@
+[
+    {
+      "people": "Neil Sims",
+      "img_src": "./img1/Avatar.svg",
+      "email": "email@example.com",
+      "price": "$367"
+    },
+    {
+      "people": "Bonnie Green",
+      "img_src": "./img1/Avatar (1).svg",
+      "email": "email@example.com",
+      "price": "$67"
+    },
+    {
+      "people": "Micheal Gough",
+      "img_src": "./img1/Avatar (2).svg",
+      "email": "email@example.com",
+      "price": "$3467"
+    },
+    {
+      "people": "Tomas Lean",
+      "img_src": "./img1/Avatar (5).svg",
+      "email": "email@example.com",
+      "price": "$2367"
+    },
+    {
+      "people": "Lana Byrd",
+      "img_src": "./img1/Avatar (3).svg",
+      "email": "email@example.com",
+      "price": "$367"
+    },
+    {
+      "people": "Karen Nelson",
+      "img_src": "./img1/Avatar (4).svg",
+      "email": "email@example.com",
+      "price": "$1367"
+    }
+  ]

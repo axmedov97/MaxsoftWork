@@ -1,0 +1,87 @@
+
+.navbar{
+    padding: 20px;
+    background-color: white;
+    flex-direction: column;
+    size: cover;
+    border: 1px solid #E5E7EB;
+    position: absolute;
+    
+    width: 100%;
+    height: 70px;
+}
+.header_content{
+    width: 96%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.search{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 13px 15px;
+    width: 402px;
+    height: 45px;
+    background-color: #F9FAFB;
+    border: 1px solid #E5E7EB;
+    border-radius: 16px;
+    margin: 0 10px;
+  
+}
+.search > form {
+    
+    padding: 12px 16px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 92px;
+}
+.search > form > .searchInput{
+    border: none;
+    background-color: transparent;
+    width: 100%;
+}
+.searchInput:focus{
+    box-shadow: none;
+    outline: none;
+    border: none!important
+}
+.navigations > .navItem{
+    list-style-type: none;
+}
+
+.navigations > .navItem > a > img{
+    margin-right: 20px;
+}
+.avatar{
+    width: 32px;
+    height: 32px;
+}
+.row{
+    display: flex;
+    
+}
+.row > .col-2{
+    
+    border: 1px solid #E5E7EB;
+}
+.row > .col-10{
+    
+    border: 1px solid #E5E7EB;
+}
+ul li{
+    list-style-type: none;
+    margin: 30px 15px;
+}
+.lists{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.products{
+    display: flex;
+    justify-content: space-between;
+}
+.col-4 .lists{
+    margin: 3.6px 0;
+}
